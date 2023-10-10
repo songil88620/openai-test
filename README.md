@@ -1,7 +1,7 @@
  
 
 ## Install & Run Laravel
--Run xampp on your windows and turn on PHP, mysql server
+-Run xampp on your windows and turn on PHP, mysql server <br/>
 -Open root folder & run 'composer install' on your terminal
 -Set the DB information on .env
 -Run 'php artisan migrate --seed' on your terminal

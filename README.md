@@ -18,4 +18,5 @@
     key2: uid, example value: 'abc123' // user id <br/>
 -Call 'http://localhost:8000/api/apitest' with the above parameters  <br/>
 
- 
+## Case
+<img src='https://github.com/songil88620/openai-test/blob/main/1.PNG'/>

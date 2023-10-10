@@ -20,3 +20,4 @@
 
 ## Case
 <img src='https://github.com/songil88620/openai-test/blob/main/1.PNG'/>
+<img src='https://github.com/songil88620/openai-test/blob/main/2.PNG'/>

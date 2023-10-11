@@ -25,12 +25,10 @@ class GptController extends Controller
             'msg' => $request['query'],
         ]);
 
-        $aires->result = $response;     
-       
-        // return $response ; 
+        $aires->result = $response;       
 
         if($aires->save()){
-            return "ok";
+            return $response;
         }
     }
 }

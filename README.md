@@ -18,6 +18,11 @@
     key2: uid, example value: 'abc123' // user id <br/>
 -Call 'http://localhost:8000/api/apitest' with the above parameters  <br/>
 
+## Test through Frontend
+-Open frontend foler and run 'npm install' on root terminal<br/>
+-Run 'npm run dev' on root terminal and open 'localhost:3000' on browser<br/>
+
 ## Case
 <img src='https://github.com/songil88620/openai-test/blob/main/1.PNG'/>
 <img src='https://github.com/songil88620/openai-test/blob/main/2.PNG'/>
+<img src='https://github.com/songil88620/openai-test/blob/main/3.PNG'/>
